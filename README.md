@@ -5,3 +5,7 @@
 Установить необходимые библиотеки:
 
 pip3 install -r requirements.txt
+
+Запуск:
+
+python3 scam.py
